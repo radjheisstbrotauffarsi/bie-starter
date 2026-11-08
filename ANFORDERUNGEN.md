@@ -26,3 +26,8 @@ Das Testorakel für Unit-, Integrations- und E2E-Tests. Die Regeln sind determin
 
 Alle Musterakten haben einen gültigen Nachweis. Nicht genannte Sicherheitsmerkmale sind false.
 Ungültig (HTTP 400) und fachlich abgelehnt (HTTP 201, Status rejected) sind verschieden.
+
+
+
+Marcos was here
+nvmd
